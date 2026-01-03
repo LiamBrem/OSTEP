@@ -209,6 +209,16 @@ There are a few other important flags:
 
 Now go answer the questions at the back of the chapter to learn more.
 
+1. 100%
+2. 10
+3. 6 - 1 process runs while other is waiting
+4. Both waiting while 1 is doing IO
+5. Another process runs while one is waiting
+6. No
+7. A process that just completed I/O most likely needs to perform some operation on
+That input
+8. 
+
 
 
 
